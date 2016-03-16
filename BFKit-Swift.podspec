@@ -13,8 +13,8 @@ Pod::Spec.new do |s|
   s.social_media_url = "https://twitter.com/infinity4all"
   s.platform         = :ios, "8.0"
   s.source           = {
-                          :git => "https://github.com/FabrizioBrancati/BFKit-Swift.git",
-                          :tag => "v1.6.0"
+                          :git => "https://github.com/d-abe/BFKit-Swift.git",
+                          :tag => "v1.6.1"
                        }
   s.source_files     = "Source/**/*.{swift}"
   s.resources        = "Source/Languages/**"
